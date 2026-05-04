@@ -1,4 +1,4 @@
-# PORTFOLIO
+# Portfolio
 
 Chào mừng bạn ghé thăm không gian lưu trữ portfolio cá nhân của mình! Đây là nơi demo các dự án tâm huyết mà mình đã và đang thực hiện.
  
@@ -8,6 +8,7 @@ Chào mừng bạn ghé thăm không gian lưu trữ portfolio cá nhân của m
 - Cell: 0978.39.41.43
 - Email: daibangcam@gmail.com
 - Website: [http://hano.cf/](http://hano.cf/)
+- Portfolio: [https://hoantran205.notion.site/](https://hoantran205.notion.site/)
 
 ## Demo Projects
 
